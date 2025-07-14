@@ -3,7 +3,7 @@
 "companyName": "DefaultCompany",
 "productName": "GeometryDashLife",
 "productVersion": "1.2",
-"dataUrl": "geolitev8.data.unityweb",
+"dataUrl": "https://geometrydashs.io/Build/geolitev8.data.unityweb",
 "wasmCodeUrl": "geolitev8.wasm.code.unityweb",
 "wasmFrameworkUrl": "geolitev8.wasm.framework.unityweb",
 "graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
